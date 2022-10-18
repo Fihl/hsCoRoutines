@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map for hsCoRoutines
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+hsTASK_SETUP	KEYWORD2
+hsTASK_SETUP_STACK	KEYWORD2
+hsTASK_SETUP_STACK_SIZE	KEYWORD2
+hsTASK	KEYWORD2
+hsIdle	KEYWORD2
+hsStackFree	KEYWORD2
+
+hsSemaWait	KEYWORD2
+hsSemaSignal	KEYWORD2
+hsSemaSignal_interrupt	KEYWORD2
+
+hsEventWait	KEYWORD2
+hsEventSignal	KEYWORD2
+hsEventSignal_interrupt	KEYWORD2
+
+hsMailWait	KEYWORD2
+hsMailSend	KEYWORD2
+hsMailSend_interrupt	KEYWORD2
+hsGLOBALS	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
