@@ -1,2 +1,2 @@
 # hsCoRoutines
-Milti tasking, the co-operating way
+Multi tasking, the co-operating way
